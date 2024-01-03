@@ -1,4 +1,4 @@
-# Automated_Mushroom_Grow_Kit
+# Hyphare:Automated_Mushroom_Grow_Kit
 
 Name: Hyphae - Making growing boutique mushrooms simple and sustainable
 
